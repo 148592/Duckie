@@ -1,2 +1,3 @@
 # Duckie
-https://148592.github.io/Duckie/
+https://148592.github.io/Duckie/mysite.html
+
